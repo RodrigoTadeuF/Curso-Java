@@ -1,2 +1,2 @@
 # curso-java
-Java Course from Acenelio Alves on Udemy
+Repository of the Java Course from Acenelio Alves on Udemy
